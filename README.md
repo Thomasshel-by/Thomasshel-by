@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thomasshel-by
+- 👋 Hi, I’m @Trindade_shelb
 - 👀 I’m interested ...
 - 🌱 I’m currently learning java, node.js and typescript
 - 💞️ I’m looking to collaborate on a project
